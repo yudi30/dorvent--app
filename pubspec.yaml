@@ -1,0 +1,80 @@
+name: dorvent
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  google_sign_in: ^4.0.14
+  flutter_facebook_login: ^3.0.0
+  google_maps_flutter: ^0.5.21+12
+  firebase_auth: ^0.15.0+1
+  redux: ^3.0.0
+  flutter_redux: ^0.5.4
+  auto_size_text: ^2.1.0
+  email_validator: ^1.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icons/logo.png
+    - assets/icons/user.png
+    - assets/icons/password.png
+    - assets/icons/facebook.png
+    - assets/icons/google.png
+    - assets/icons/anonymous.png
+    - assets/icons/phone.png
+    - assets/icons/username.png
+    - assets/icons/notifications.png
+    - assets/icons/message.png
+    - assets/icons/settings.png
+    - assets/icons/home.png
+    - assets/icons/ladiesfootwear.png
+    - assets/icons/bridalgowns.png
+    - assets/icons/hairstylists.png
+    - assets/icons/perfumes.png
+    - assets/icons/menfootwear.png
+    - assets/icons/makeupartists.png
+    - assets/icons/koshadesigner.png
+    - assets/icons/mensaccessories.png
+    - assets/icons/messenger.png
+    - assets/icons/messenger1.png
+    - assets/icons/newpost.png
+    - assets/icons/jobs.png
+    - assets/icons/events1.png
+    - assets/icons/search.png
+    - assets/sampleFaces/1.jpg
+    - assets/sampleFaces/2.jpg
+    - assets/sampleFaces/3.jpg
+    - assets/sampleFaces/4.jpg
+    - assets/sampleFaces/5.jpg
+    - assets/sampleFaces/6.jpg
+    - assets/sampleFaces/7.jpg
+    - assets/sampleFaces/8.jpg
+    - assets/sampleFaces/9.jpg
+    - assets/sampleFaces/10.jpg
+    - assets/sampleFaces/gmap.png
+    - assets/sampleFaces/samplepic.jpg
+    - assets/sampleFaces/samplepic1.jpg
+    - assets/sampleFaces/samplepic2.jpg
+
+  fonts:
+    - family: Avenir Next
+      fonts:
+        - asset: assets/fonts/AvenirNext-Regular.ttf
+        - asset: assets/fonts/AvenirNext-Italic.ttf
+          style: italic
+    - family: Poiret One
+      fonts:
+        - asset: assets/fonts/PoiretOne-Regular.ttf

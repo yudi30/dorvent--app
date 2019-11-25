@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "789724944866",
+    "firebase_url": "https://dorvent-f888d.firebaseio.com",
+    "project_id": "dorvent-f888d",
+    "storage_bucket": "dorvent-f888d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789724944866:android:6e0718c788f11181e941bb",
+        "android_client_info": {
+          "package_name": "com.example.dorvent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789724944866-bi3nl8a9mlem5hq8qkkg4cb1hmde2h2u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dorvent",
+            "certificate_hash": "c8f89de17cbb8ae25355d0f0804fb58f39cf11d2"
+          }
+        },
+        {
+          "client_id": "789724944866-0geuld6srq5nfl58p2e457ir6uug60qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMdum5SVFANUDR4cXuh4RX4A2dxQWRZz0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789724944866-0geuld6srq5nfl58p2e457ir6uug60qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
